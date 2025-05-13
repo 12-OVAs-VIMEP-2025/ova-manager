@@ -12,7 +12,7 @@ Este proyecto es una interfaz de usuario para escanear y gestionar carpetas OVA,
 
 1. Clona el repositorio:
   ```bash
-  git clone https://github.com/your-repo/ova-folder-scan-ui-vite.git
+  git clone https://github.com/12-OVAs-VIMEP-2025/ova-manager/ova-folder-scan-ui-vite.git
   ```
 2. Navega al directorio del proyecto:
   ```bash
